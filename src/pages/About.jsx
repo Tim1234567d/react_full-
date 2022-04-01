@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
     return (
         <h1>
-            Это приложение создано в качестве обуч. ролика на ULBI TV
+          Повторил все темы в react
         </h1>
     );
 };
